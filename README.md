@@ -38,7 +38,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 ### Kelebihan Rule Online
 
-1. Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, masukkan manual dan bingung mencari rule sana sini.
+1. Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini.
 2. Rule akan memperoleh update terbaru jika menyinkronkannya
 
 ## Config Rule Offline
