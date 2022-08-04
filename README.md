@@ -76,17 +76,17 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 
 3. Pilih icon `tambah` pada pojok kanan atas
 
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import2.jpg" border="0">
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/icontambah.jpg" border="0">
 
 4. Klik tab `File`
 
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import3.jpg" border="0">
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import2.jpg" border="0">
 
 5. Isi kolom `Name` sesuai keinginan anda, lalu klik `Browse Files`
 
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import4.jpg" border="0">
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import3.jpg" border="0">
 
 6. Klik titik tiga kemudian pilih `Import`
 
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import5.jpg" border="0">
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import4.jpg" border="0">
 
