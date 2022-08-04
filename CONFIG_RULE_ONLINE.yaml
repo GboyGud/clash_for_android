@@ -109,15 +109,15 @@ rules:
 - IP-CIDR,198.18.0.1/16,REJECT,no-resolve
 - RULE-SET,rule_direct,DIRECT
 - RULE-SET,rule_reject,REJECT
-- RULE-SET,rule_browsing,BROWSING
-- RULE-SET,rule_streaming,STREAMING
-- RULE-SET,rule_sosmed,SOSMED
-- RULE-SET,rule_ML,GAME
-- RULE-SET,rule_PUBG,GAME
-- RULE-SET,rule_FF,GAME
-- RULE-SET,rule_gameumum,GAME
-- RULE-SET,rule_whatsapp,WHATSAPP
-- RULE-SET,rule_adblock,ADBLOCK
+- RULE-SET,rule_browsing,🟡 BROWSING 🟡
+- RULE-SET,rule_streaming,🟠 STREAMING 🟠
+- RULE-SET,rule_sosmed,🟢 SOSMED 🟢
+- RULE-SET,rule_ML,🔵 GAME 🔵
+- RULE-SET,rule_PUBG,🔵 GAME 🔵
+- RULE-SET,rule_FF,🔵 GAME 🔵
+- RULE-SET,rule_gameumum,🔵 GAME 🔵
+- RULE-SET,rule_whatsapp,🟣 WHATSAPP 🟣
+- RULE-SET,rule_adblock,🔴 ADBLOCK 🔴
 - MATCH,GLOBAL
 rule-providers:
   rule_direct:
