@@ -18,7 +18,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - [Whatsapp](https://wa.me/6285334821022)
 
 # KETERANGAN CONFIG
-**Config Yang Saya Sediakan Terdapat Dua Model yaitu: `CONFIG RULE ONLINE` dan `CONFIG RULE OFFLINE`
+**Config Yang Saya Sediakan Terdapat Dua Model yaitu**: `CONFIG RULE ONLINE` dan `CONFIG RULE OFFLINE`
 
 ## Config RUle Online
 Config rule online adalah config yang rule provider nya akan selalu sinkron dengan repository github ini ketika melakukan update. Dengan beberapa kekurangan dan kelebihan
