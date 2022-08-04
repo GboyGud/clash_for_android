@@ -1,62 +1,41 @@
 proxies:
-#31-07
-- name: 🇸🇬 GO-HE1
-  server: gamemax.prem.my.id
+#ISI AKUN ANDA SENDIRI
+- name: Trojan GFW
+  type: trojan
+  server: SERVER.COM
+  port: 443
+  password: PASSWORD
+  udp: true
+  sni: BUGSNI.COM
+  skip-cert-verify: true
+  
+- name: Trojan GO/WS
+  server: IPCDN/BUGCDN.COM
   port: 443
   type: trojan
-  password: 23683e40-1078-11ed-aec6-1239d0255272
-  skip-cert-verify: true
-  sni: sg1-trojan.bonds.id
+  password: PASSWORD
   network: ws
+  sni: SERVER.COM
+  skip-cert-verify: true
+  udp: true
   ws-opts:
-    path: /howdy
+    path: /PATH
     headers:
-      Host: sg1-trojan.bonds.id
-  udp: true
-- name: 🇸🇬 GF-HE1
-  type: trojan
-  server: sg1-trojan.bonds.id
-  port: 443
-  password: 23683e40-1078-11ed-aec6-1239d0255272
-  udp: true
-  sni: spotify.com
-  skip-cert-verify: true
-#31-07
-- name: 🇮🇩 GO-ATHA
-  server: gamemax.prem.my.id
-  port: 443
-  type: trojan
-  password: 1b43902d-00ce-4dce-bbb3-a45bc527af55
-  skip-cert-verify: true
-  sni: id-atha3.service-bestvpn.xyz
-  network: ws
-  ws-opts:
-    path: /websocket
-    headers:
-      Host: id-atha3.service-bestvpn.xyz
-  udp: true
-- name: 🇮🇩 GF-ATHA
-  type: trojan
-  server: id-atha3.service-bestvpn.xyz
-  port: 443
-  password: 1b43902d-00ce-4dce-bbb3-a45bc527af55
-  udp: true
-  sni: spotify.com
-  skip-cert-verify: true
-#31-07
-- name: 🇸🇬 VMF-AMP
+        Host: SERVER.COM
+        
+- name: Vmess WS (CDN)
   type: vmess
-  server: gamemax.prem.my.id
+  server: IPCDN/BUGCDN.COM
   port: 443
-  uuid: b80925d6-40fa-4161-9e32-3550965527fd
+  uuid: UUID
   alterId: 0
   cipher: auto
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: sg-atha.v2-ray.com
+  servername: SERVER.COM
   network: ws
   ws-opts:
-    path: /fastssh/ewrrt/62e5e779708e5/
+    path: /PATH
     headers:
-      Host: sg-atha.v2-ray.com
+      Host: SERVER.COM        
