@@ -27,9 +27,10 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 # KETERANGAN CONFIG
 **Config Yang Saya Sediakan Terdapat Dua Model yaitu**: `CONFIG RULE ONLINE` **dan** `CONFIG RULE OFFLINE`
 
-## Config RUle Online
+## Config Rule Online
 
-**Config rule online adalah config yang rule provider nya akan selalu sinkron dengan repository github ini ketika melakukan update. Dengan beberapa kekurangan dan kelebihan**
+**Config rule online adalah config yang rule provider nya akan selalu sinkron dengan repository github ini ketika melakukan update**
+
 ### Kekurangan Rule Online
 
 1. Diwajibkan untuk terhubung ke internet dalam pemasangan config. Baik melalui data reguler, wifi, inject atau yang lain. Karena pemasangan config akan melalui proses download repository github
