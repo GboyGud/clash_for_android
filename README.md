@@ -8,6 +8,7 @@
   - [Config Rule Offline](#config-rule-offline)
     - [kekurangan Rule Offline](#kekurangan-rule-offline)
     - [Kelebihan Rule Offline](#kelebihan-rule-offline)
+- [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)    
 - [Langkah Pemasangan Config Rule Online](#langkah-pemasangan-config-rule-online)
 
 
@@ -38,4 +39,20 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 ### Kelebihan Rule Offline
 1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download
 2. Rule provider bisa anda custom dengan kemauan sendiri
+
+# HAL PERTAMA YANG PERLU DISETTING
+
+1. Pada halaman awal aplikasi, pilih tab `Settings`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting1.jpg" border="0">
+
+2. Kemudian pilih tab `Override`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting2.jpg" border="0">
+
+3. Pada menu `Override` tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Global Mode`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3.jpg" border="0">
+
+4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu `Override` tidak perlu diubah karena sudah include dalam config
 
