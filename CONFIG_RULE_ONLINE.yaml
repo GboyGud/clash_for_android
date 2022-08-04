@@ -37,6 +37,13 @@ proxy-groups:
   - PG_UMUM
   url: http://www.gstatic.com/generate_204
   interval: '30'
+- name: Ⓜ️ PILIH MANUAL Ⓜ️
+  type: select
+  disable-udp: false
+  use:
+  - PG_UMUM
+  url: http://www.gstatic.com/generate_204
+  interval: '99'  
 - name: 🔵 GAME 🔵
   type: select
   disable-udp: false
@@ -64,13 +71,6 @@ proxy-groups:
   - 🟡 BROWSING 🟡
   - 🟠 STREAMING 🟠
   - 🟢 SOSMED 🟢
-  url: http://www.gstatic.com/generate_204
-  interval: '99'
-- name: Ⓜ️ PILIH MANUAL Ⓜ️
-  type: select
-  disable-udp: false
-  use:
-  - PG_UMUM
   url: http://www.gstatic.com/generate_204
   interval: '99'
 port: 7890
