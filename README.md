@@ -10,7 +10,8 @@
     - [Kelebihan Rule Offline](#kelebihan-rule-offline)
 - [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)    
 - [Langkah Pemasangan Config Rule Online](#langkah-pemasangan-config-rule-online)
-
+- [Langkah Pemasangan Config Rule Offline](#langkah-pemasangan-config-rule-offline)
+- [Cara Update Rule Online](#cara-update-rule-online)
 
 # SUPPORT ME
 Anda Bisa Menghubungi Kami Untuk Permasalahan Config
@@ -92,7 +93,7 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 
 7. Arahkan ke directory anda mengekstrak file config. Kemudian pilih file yang bernama `CONFIG_RULE_ONLINE.yaml`
 
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import5.jpg" border="0">
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import52.jpg" border="0">
 
 8. Setelah config utamanya diimport, selanjutnya adalah mengimport file proxy. Dengan cara klik `Provider Files`
 
@@ -136,3 +137,22 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 
 16. Jika semula yang terpilih adalah proxy `DIRECT` maka cukup pindahkan ke salah satu didalam garis perssegi yang saya tandai ini
 
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/run32.jpg" border="0">
+
+17. Selesai
+
+
+# LANGKAH PEMASANGAN CONFIG RULE OFFLINE
+- Coming Soon
+
+# CARA UPDATE RULE ONLINE
+
+1. Konekkaan clash android anda agar muncul menu `Providers` lalu diklik
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/update1.jpg" border="0">
+
+2. Klik icon refresh pada pojok kanan atas
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/update2.jpg" border="0">
+
+3. Pastikan status berubah menjadi `Recently`
