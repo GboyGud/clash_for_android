@@ -1,6 +1,4 @@
 payload:
-# by > RZP
-payload:
 # > Google Ads
   - DOMAIN-SUFFIX,pagead2.googlesyndication.com
   - DOMAIN-SUFFIX,ads.google.com
