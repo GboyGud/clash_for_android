@@ -113,7 +113,7 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 
 10. Maka akan muncul kedua file yang telah diimport tadi
 
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/active9.jpg" border="0">
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import9.jpg" border="0">
 
 11. Edit kedua file tadi untuk menambahkan akun vpn anda. Bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
 
