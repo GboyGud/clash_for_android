@@ -171,6 +171,8 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/update3.jpg" border="0">
 
+4. Lakukan update seperti ini setidaknya satu kali dalam sebulan agar rule tetap dalam keadaan update
+
 
 # THANKS TO
 
