@@ -14,6 +14,7 @@
 - [Langkah Pemasangan Config Rule Online](#langkah-pemasangan-config-rule-online)
 - [Langkah Pemasangan Config Rule Offline](#langkah-pemasangan-config-rule-offline)
 - [Cara Update Rule Online](#cara-update-rule-online)
+- [Thanks To](#thanks-to)
 
 # SUPPORT ME
 Anda Bisa Menghubungi Kami Untuk Permasalahan Config
@@ -70,7 +71,7 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 
 <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting2.jpg" border="0">
 
-3. Pada menu `Override` tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Global Mode`
+3. Pada menu Override tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Global Mode`
 
 <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3.jpg" border="0">
 
@@ -168,3 +169,11 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 3. Pastikan status berubah menjadi `Recently`
 
 <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/update3.jpg" border="0">
+
+
+# THANKS TO
+
+**- ALLAH SWT**
+- KELUARGA
+- SEMUA PIHAK YANG TELAH MENSUPORT AGAR PROJECT INI TERUS BERLANJUT
+- SEMUANYA YANG TELAH MEMBANTU KAMI DALAM BENTUK MATERI MAUPUN DOA
