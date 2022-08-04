@@ -4,10 +4,10 @@
 - [Keterangan Config](#keterangan-config)
   - [Config Rule Online](#config-rule-online)
     - [kekurangan](#kekurangan)
-    - [Keleniham](#kelebihan)
+    - [Kelebiham](#kelebihan)
   - [Config Rule Offline](#config-rule-offline)
     - [kekurangan](#kekurangan)
-    - [Keleniham](#kelebihan)  
+    - [Kelebihan](#kelebihan)  
 
 
 # SUPPORT ME
