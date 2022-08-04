@@ -1,9 +1,6 @@
 **Table of Contents**
 
 - [Support Me](#support-me)
-- [Hal Pertama Yang Perlu Disetting](#hal-pertama-yang-perlu-disetting)  
-  - [Download File Config](#download-file-config)
-  - [Setting Clash For Android](#setting-clash-for-android)
 - [Keterangan Config](#keterangan-config)
   - [Config Rule Online](#config-rule-online)
     - [kekurangan Rule Online](#kekurangan-rule-online)
@@ -11,6 +8,9 @@
   - [Config Rule Offline](#config-rule-offline)
     - [kekurangan Rule Offline](#kekurangan-rule-offline)
     - [Kelebihan Rule Offline](#kelebihan-rule-offline) 
+- [Persiapan](#persiapan)  
+  - [Download File Config](#download-file-config)
+  - [Setting Clash For Android](#setting-clash-for-android)     
 - [Langkah Pemasangan Config Rule Online](#langkah-pemasangan-config-rule-online)
 - [Langkah Pemasangan Config Rule Offline](#langkah-pemasangan-config-rule-offline)
 - [Cara Update Rule Online](#cara-update-rule-online)
@@ -22,28 +22,6 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 - [Telegram](https://t.me/AfthonPc)
 - [Whatsapp](https://wa.me/6285334821022)
 
-
-# HAL PERTAMA YANG PERLU DISETTING
-
-## Download File Config
-
-**Unduh File Keseluruhan Config dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip** [disini](https://github.com/GboyGud/clash_for_android/archive/refs/heads/main.zip)
-
-## Setting Clash For Android
-
-1. Pada halaman awal aplikasi, pilih tab `Settings`
-
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting1.jpg" border="0">
-
-2. Kemudian pilih tab `Override`
-
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting2.jpg" border="0">
-
-3. Pada menu `Override` tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Global Mode`
-
-<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3.jpg" border="0">
-
-4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu `Override` tidak perlu diubah karena sudah include dalam config
 
 # KETERANGAN CONFIG
 **Config Yang Saya Sediakan Terdapat Dua Model yaitu**: `CONFIG RULE ONLINE` **dan** `CONFIG RULE OFFLINE`
@@ -74,6 +52,29 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 
 1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download
 2. Rule provider bisa anda custom dengan kemauan sendiri
+
+
+# PERSIAPAN
+
+## Download File Config
+
+**Unduh File Keseluruhan Config dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip** [disini](https://github.com/GboyGud/clash_for_android/archive/refs/heads/main.zip)
+
+## Setting Clash For Android
+
+1. Pada halaman awal aplikasi, pilih tab `Settings`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting1.jpg" border="0">
+
+2. Kemudian pilih tab `Override`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting2.jpg" border="0">
+
+3. Pada menu `Override` tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Global Mode`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3.jpg" border="0">
+
+4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu `Override` tidak perlu diubah karena sudah include dalam config
 
 
 # LANGKAH PEMASANGAN CONFIG RULE ONLINE
