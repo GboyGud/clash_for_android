@@ -1,14 +1,14 @@
 proxy-providers:
   PG_UMUM:
     type: file
-    path: "./AKUNUMUM.yaml"
+    path: "./AKUN_UMUM.yaml"
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
       interval: 30
   PG_GAMING:
     type: file
-    path: "./GAMING.yaml"
+    path: "./AKUN_GAME.yaml"
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
