@@ -4,7 +4,7 @@
 - [Keterangan Config](#keterangan-config)
   - [Config Rule Online](#config-rule-online)
     - [kekurangan](#kekurangan)
-    - [Kelebiham](#kelebihan)
+    - [Kelebihan](#kelebihan)
   - [Config Rule Offline](#config-rule-offline)
     - [kekurangan](#kekurangan)
     - [Kelebihan](#kelebihan)  
