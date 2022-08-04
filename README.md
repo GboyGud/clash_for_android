@@ -90,3 +90,13 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 
 <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import4.jpg" border="0">
 
+7. Arahkan ke directory anda mengekstrak file config. Kemudian pilih file yang bernama `CONFIG_RULE_ONLINE.yaml`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import5.jpg" border="0">
+
+8. Setelah config utamanya diimport, selanjutnya adalah mengimport file proxy. Dengan cara klik `Provider Files`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import6.jpg" border="0">
+
+7. 
+
