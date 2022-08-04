@@ -1,0 +1,12 @@
+payload:
+  # Xxx
+  - DOMAIN-SUFFIX,tubesafari.com
+  - DOMAIN-SUFFIX,www.pornhub.com
+  - DOMAIN-SUFFIX,pornkai.com
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,www.xnxx.com
+  - DOMAIN-SUFFIX,www.xvideos.com
+  # Hotstar
+  - IP-CIDR,128.199.175.251/12
+  - IP-CIDR,178.128.220.28/20
+  - IP-CIDR,198.18.0.1/16

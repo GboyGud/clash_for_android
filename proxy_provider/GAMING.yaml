@@ -1,0 +1,14 @@
+proxies:
+#isi dengan akun grpc kalian. Karena protocol grpc cocok untuk game jika tidak bisa melalui DIRECT
+
+- name: Trojan gRPC (SNI)
+  type: trojan
+  server: SERVER.COM
+  port: 443
+  password: PASSWORD
+  udp: true
+  sni: BUGSNI.COM
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: NAMAGRPC
