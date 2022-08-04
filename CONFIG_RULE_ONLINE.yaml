@@ -51,9 +51,9 @@ proxy-groups:
   disable-udp: false
   proxies:
   - REJECT
-  - BROWSING
-  - STREAMING
-  - SOSMED
+  - 🟡 BROWSING 🟡
+  - 🟠 STREAMING 🟠
+  - 🟢 SOSMED 🟢
   url: http://www.gstatic.com/generate_204
   interval: '99'
 - name: 🟣 WHATSAPP 🟣
@@ -61,9 +61,9 @@ proxy-groups:
   disable-udp: false
   proxies:
   - DIRECT
-  - BROWSING
-  - STREAMING
-  - SOSMED
+  - 🟡 BROWSING 🟡
+  - 🟠 STREAMING 🟠
+  - 🟢 SOSMED 🟢
   url: http://www.gstatic.com/generate_204
   interval: '99'
 - name: Ⓜ️ PILIH MANUAL Ⓜ️
