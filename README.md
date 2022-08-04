@@ -23,20 +23,29 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 **Config Yang Saya Sediakan Terdapat Dua Model yaitu**: `CONFIG RULE ONLINE` **dan** `CONFIG RULE OFFLINE`
 
 ## Config RUle Online
+
 Config rule online adalah config yang rule provider nya akan selalu sinkron dengan repository github ini ketika melakukan update. Dengan beberapa kekurangan dan kelebihan
 ### Kekurangan Rule Online
+
 1. Diwajibkan untuk terhubung ke internet dalam pemasangan config. Baik melalui data reguler, wifi, inject atau yang lain. Karena pemasangan config akan melalui proses download repository github
-2.Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini
+2. Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini
+
 ### Kelebihan Rule Online
+
 1. Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, masukkan manual dan bingung mencari rule sana sini.
-2.Rule akan memperoleh update terbaru jika menyinkronkannya
+2. Rule akan memperoleh update terbaru jika menyinkronkannya
 
 ## Config Rule Offline
+
 Config rule offline adalah config dengan metode penggunaan secara manual
+
 ### Kekurangan Rule Offline
+
 1. Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu-satu (manual)
 2. Rule provider tidak bisa auto update dengan kata lain harus mengedit dan menambahkan sendiri
+
 ### Kelebihan Rule Offline
+
 1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download
 2. Rule provider bisa anda custom dengan kemauan sendiri
 
@@ -55,4 +64,29 @@ Config rule offline adalah config dengan metode penggunaan secara manual
 <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3.jpg" border="0">
 
 4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu `Override` tidak perlu diubah karena sudah include dalam config
+
+
+# LANGKAH PEMASANGAN CONFIG RULE ONLINE
+
+1. Pastikan perangkat anda terhubung dengan internet
+
+2. Pada halaman awal apikasi, pilih tab `Profile`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import1.jpg" border="0">
+
+3. Pilih icon `tambah` pada pojok kanan atas
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import2.jpg" border="0">
+
+4. Klik tab `File`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import3.jpg" border="0">
+
+5. Isi kolom `Name` sesuai keinginan anda, lalu klik `Browse Files`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import4.jpg" border="0">
+
+6. Klik titik tiga kemudian pilih `Import`
+
+<img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import5.jpg" border="0">
 
