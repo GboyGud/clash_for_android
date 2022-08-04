@@ -47,7 +47,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 ### Kekurangan Rule Offline
 
-1. Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu-satu (manual)
+1. Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu persatu (manual)
 2. Rule provider tidak bisa auto update dengan kata lain harus mengedit dan menambahkan sendiri
 
 ### Kelebihan Rule Offline
