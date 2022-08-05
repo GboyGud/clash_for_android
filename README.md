@@ -25,7 +25,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 
 # KETERANGAN CONFIG
-**Config Yang Saya Sediakan Terdapat Dua Model yaitu**: `CONFIG RULE ONLINE` **dan** `CONFIG RULE OFFLINE`
+**Config Yang Saya Sediakan Terdapat Dua Model yaitu:** `CONFIG RULE ONLINE` **dan** `CONFIG RULE OFFLINE`
 
 ## Config Rule Online
 
