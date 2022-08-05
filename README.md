@@ -112,53 +112,53 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import6.jpg" border="0">
 
-7. Kemudian klik icon tambah pada pojok kanan atas
+9. Kemudian klik icon tambah pada pojok kanan atas
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/icontambah2.jpg" border="0">
 
-8. Arahkan kembali ke directory anda mengekstrak file config, lalu masuk ke folder `proxy_provider`
+10. Arahkan kembali ke directory anda mengekstrak file config, lalu masuk ke folder `proxy_provider`
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/imprt7.jpg" border="0">
 
-9. Tambahkan kedua file yang ada di dalam folder `proxy_provider` tersebut
+11. Tambahkan kedua file yang ada di dalam folder `proxy_provider` tersebut
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import8.jpg" border="0">
 
-10. Maka akan muncul kedua file yang telah diimport tadi
+12. Maka akan muncul kedua file yang telah diimport tadi
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import9.jpg" border="0">
 
 **Cukup dua file yang diimport, selebihnya tidak perlu, karena rule provider berbasis `URL` bukan lagi file**
 
-11. Edit kedua file `AKUN_UMUM.yaml` dan `AKUN_GAME.yaml` untuk menambahkan akun vpn anda. Bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
+13. Edit kedua file `AKUN_UMUM.yaml` dan `AKUN_GAME.yaml` untuk menambahkan akun vpn anda. Bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import10.jpg" border="0">
 
-12. Setelah pengeditan selesai, klik back dan jangan lupa disimpan dengan menekan tombol di pojok kanan atas
+14. Setelah pengeditan selesai, klik back dan jangan lupa disimpan dengan menekan tombol di pojok kanan atas
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import11.jpg" border="0">
 
-13. Maka akan ada proses download repository github seperti pada gambar
+15. Maka akan ada proses download repository github seperti pada gambar
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import11prt2.jpg" border="0">
 
-13. Pastikan profile yang dibuat tadi telah di `select` dan berwarna biru seperti digambar
+16. Pastikan profile yang dibuat tadi telah di `select` dan berwarna biru seperti digambar
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import12.jpg" border="0">
 
-14. Maka proses pemasangan config telah selesai. Selanjutnya tinggal mengkonekkannya dengan cara klik `Tap to start` hingga berubah menjadi `Running`
+17. Maka proses pemasangan config telah selesai. Selanjutnya tinggal mengkonekkannya dengan cara klik `Tap to start` hingga berubah menjadi `Running`
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/run1.jpg" border="0">
 
-15. Pastikan akun vpn yang anda masukkan tadi telah muncul ping untuk memastikan konek/tidaknya. Dengan mengeceknya pada tab `Proxy`
+18. Pastikan akun vpn yang anda masukkan tadi telah muncul ping untuk memastikan konek/tidaknya. Dengan mengeceknya pada tab `Proxy`
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/run2.jpg" border="0">
 
-16. Tekan icon `petir` untuk mengecek ping, dan pastikan semua akun keluar pingnya seperti digambar
+19. Tekan icon `petir` untuk mengecek ping, dan pastikan semua akun keluar pingnya seperti digambar
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/run3x.jpg" border="0">
 
-17. Selesai
+20. Selesai
 
 
 # LANGKAH PEMASANGAN CONFIG RULE OFFLINE
