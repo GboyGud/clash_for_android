@@ -74,7 +74,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 3. Pada menu Override tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Rule Mode`
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3x.jpg" border="0">
 
 4. Maka pada langkah ini selesai. Untuk settingan yang lain pada menu `Override` tidak perlu diubah karena sudah include dalam config
 
