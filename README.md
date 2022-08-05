@@ -126,7 +126,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 10. Maka akan muncul kedua file yang telah diimport tadi
 
 <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import9.jpg" border="0">
-***Cukup dua file yang diimport, selebihnya tidak perlu, karena rule provider berbasis `URL` bukan lagi file***
+***Cukup dua file yang diimport***, selebihnya tidak perlu, karena rule provider berbasis `URL` bukan lagi file
 
 11. Edit kedua file `AKUN_UMUM.yaml` dan `AKUN_GAME.yaml` untuk menambahkan akun vpn anda. Bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
 
