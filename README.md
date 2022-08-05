@@ -106,7 +106,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 7. Arahkan ke directory anda mengekstrak file config. Kemudian pilih file yang bernama `CONFIG_RULE_ONLINE.yaml`
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import52.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/imprt5.jpg" border="0">
 
 8. Setelah config utamanya diimport, selanjutnya adalah mengimport file proxy. Dengan cara klik `Provider Files`
 
@@ -118,7 +118,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 8. Arahkan kembali ke directory anda mengekstrak file config, lalu masuk ke folder `proxy_provider`
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import7.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/imprt7.jpg" border="0">
 
 9. Tambahkan kedua file yang ada di dalam folder `proxy_provider` tersebut
 
