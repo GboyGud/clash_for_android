@@ -1,5 +1,6 @@
 proxies:
 #isi dengan akun grpc kalian. Karena protocol grpc cocok untuk game jika tidak bisa melalui DIRECT
+#jika tidak ada akun grpc, bisa menggunakan akun protocol lain yang menjadi andalan anda dalam hal ping
 
 - name: Trojan gRPC (SNI)
   type: trojan
