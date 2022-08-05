@@ -60,7 +60,8 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 ## Download File Config
 
-**Unduh File Keseluruhan Config dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip** [disini](https://github.com/GboyGud/clash_for_android/archive/refs/heads/main.zip)
+**Unduh File Keseluruhan Config dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9267975/clash_for_android-main.zip)
+
 
 ## Setting Clash For Android
 
