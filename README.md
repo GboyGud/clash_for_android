@@ -41,7 +41,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 # PERSIAPAN
 
-## Download File Config
+## DOWNLOAD FILE CONFIG
 
 ### Config Rule Online
 
