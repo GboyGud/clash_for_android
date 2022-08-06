@@ -57,7 +57,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 MODE | Kelebihan | Kekurangan
 ------------ | ------------- | -------------
-Rule Online </span> | 1. Diwajibkan untuk terhubung ke internet dalam pemasangan config. Baik melalui data reguler, wifi, inject atau yang lain. Karena pemasangan config akan melalui proses download repository github
+Rule Online </span> | Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini </span> | Diwajibkan untuk terhubung ke internet dalam pemasangan config. Baik melalui data reguler/wifi. Karena pemasangan config akan melalui proses download repository github  
 </span> | 2. kekurangan
 
 
