@@ -41,7 +41,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 ## Download File Config
 
-**Unduh File Keseluruhan Config dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9274273/clash_for_android-main.zip)
+**Unduh File Keseluruhan Config dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9274534/clash_for_android-main.zip)
 
 
 ## Setting Clash For Android
