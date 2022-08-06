@@ -29,12 +29,12 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 ## Kelebihan dan Kekurangan Tiap Config
 
-CONFIG | KELEBIHAN | KEKURANGAN
+CONFIG | KEKURANGAN | KELEBIHAN
 ------------ | ------------- | -------------
-Rule Online </span> | 1. Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini </span> | 1. Diwajibkan terhubung ke internet, baik melalui data reguler/wifi. Karena pemasangan config akan melalui proses download repository github  
-</span> | 2. Rule akan memperoleh update terbaru jika menyinkronkannya </span> | 2. Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini
-Rule Offline </span> | 1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download </span> | 1. Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu persatu (manual)
-</span> | 2. Rule provider bisa anda custom dengan kemauan sendiri </span> | 2. Rule provider tidak bisa auto update dengan kata lain harus mengedit dan menambahkan sendiri
+Rule Online </span> | 1. Diwajibkan terhubung ke internet, baik melalui data reguler/wifi. Karena pemasangan config akan melalui proses download repository github </span> | 1. Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini  
+</span> | 2. Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini </span> | 2. Rule akan memperoleh update terbaru jika menyinkronkannya
+Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu persatu (manual) </span> | 1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download
+</span> | 2. Rule provider tidak bisa auto update dengan kata lain harus mengedit dan menambahkan sendiri </span> | 2. RRule provider bisa anda custom dengan kemauan sendiri
 
 
 # PERSIAPAN
