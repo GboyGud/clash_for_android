@@ -2,12 +2,7 @@
 
 - [Support Me](#support-me)
 - [Keterangan Config](#keterangan-config)
-  - [Config Rule Online](#config-rule-online)
-    - [Kekurangan Rule Online](#kekurangan-rule-online)
-    - [Kelebihan Rule Online](#kelebihan-Rule-Online)
-  - [Config Rule Offline](#config-rule-offline)
-    - [Kekurangan Rule Offline](#kekurangan-rule-offline)
-    - [Kelebihan Rule Offline](#kelebihan-rule-offline) 
+  - [Kelebihan dan Kekurangan Tiap Config](#kelebihan-dan-kekurangan-tiap-config) 
 - [Persiapan](#persiapan)  
   - [Download File Config](#download-file-config)
   - [Setting Clash For Android](#setting-clash-for-android)     
@@ -25,39 +20,16 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 
 # KETERANGAN CONFIG
+
 **Config Yang Saya Sediakan Terdapat Dua Model yaitu:** `CONFIG RULE ONLINE` **dan** `CONFIG RULE OFFLINE`
+- Config rule online adalah config yang rule provider nya berbasis `URL` dan akan selalu sinkron dengan repository github ini ketika melakukan update
+- Config rule offline adalah config yang rule providernya berbasi `FILE` dengan metode pemasangan secara manual
 
-## Config Rule Online
+## Kelebihan dan Kekurangan Tiap Config
 
-**Config rule online adalah config yang rule provider nya berbasis `URL` dan akan selalu sinkron dengan repository github ini ketika melakukan update**
-
-### Kekurangan Rule Online
-
-1. Diwajibkan untuk terhubung ke internet dalam pemasangan config. Baik melalui data reguler, wifi, inject atau yang lain. Karena pemasangan config akan melalui proses download repository github
-2. Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini
-
-### Kelebihan Rule Online
-
-1. Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini.
-2. Rule akan memperoleh update terbaru jika menyinkronkannya
-
-## Config Rule Offline
-
-**Config rule offline adalah config yang rule providernya berbasi `FILE` dengan metode pemasangan secara manual**
-
-### Kekurangan Rule Offline
-
-1. Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu persatu (manual)
-2. Rule provider tidak bisa auto update dengan kata lain harus mengedit dan menambahkan sendiri
-
-### Kelebihan Rule Offline
-
-1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download
-2. Rule provider bisa anda custom dengan kemauan sendiri
-
-MODE | Kelebihan | Kekurangan
+CONFIG | KELEBIHAN | KEKURANGAN
 ------------ | ------------- | -------------
-Rule Online </span> | Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini </span> | Diwajibkan untuk terhubung ke internet dalam pemasangan config. Baik melalui data reguler/wifi. Karena pemasangan config akan melalui proses download repository github  
+Rule Online </span> | Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini </span> | Diwajibkan terhubung ke internet, baik melalui data reguler/wifi. Karena pemasangan config akan melalui proses download repository github  
 </span> | Rule akan memperoleh update terbaru jika menyinkronkannya </span> | Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini
 Rule Offline </span> | Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download </span> | Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu persatu (manual)
 </span> | Rule provider bisa anda custom dengan kemauan sendiri </span> | Rule provider tidak bisa auto update dengan kata lain harus mengedit dan menambahkan sendiri
