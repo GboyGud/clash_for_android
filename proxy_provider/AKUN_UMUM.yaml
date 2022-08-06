@@ -1,24 +1,24 @@
 proxies:
 #ISI AKUN ANDA SENDIRI
-- name: Trojan GFW
-  type: trojan
-  server: SERVER.COM
-  port: 443
-  password: PASSWORD
-  udp: true
-  sni: BUGSNI.COM
-  skip-cert-verify: true
-  
-- name: Trojan GO/WS
-  server: IPCDN/BUGCDN.COM
+- name: Trojan GO/WS (REVERSE)
+  server: ISI BUG
   port: 443
   type: trojan
   password: PASSWORD
   network: ws
-  sni: SERVER.COM
+  sni: ISI HOST AKUN
   skip-cert-verify: true
   udp: true
   ws-opts:
     path: /PATH
     headers:
-        Host: SERVER.COM
+        Host: ISI HOST AKUN
+        
+- name: Trojan GFW (SNI)
+  type: trojan
+  server: ISI HOST AKUN
+  port: 443
+  password: PASSWORD
+  udp: true
+  sni: ISI BUG
+  skip-cert-verify: true        
