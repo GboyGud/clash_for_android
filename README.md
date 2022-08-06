@@ -130,7 +130,7 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 **Cukup dua file yang diimport, selebihnya tidak perlu, karena rule provider berbasis `URL` bukan lagi file**
 
-13. Edit kedua file `AKUN_UMUM.yaml` dan `AKUN_GAME.yaml` untuk menambahkan akun vpn anda. Bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
+13. Edit kedua file `AKUN_UMUM.yaml` dan `AKUN_GAME.yaml` untuk menambahkan akun vpn anda. Pastikan sesuai dengan [FORMAT AKUN CLASH](https://github.com/GboyGud/FORMAT_AKUN_CLASH). Pengeditan bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import10.jpg" border="0">
 
