@@ -4,11 +4,11 @@ proxies:
 
 - name: Trojan gRPC (SNI)
   type: trojan
-  server: SERVER.COM
+  server: ISI HOST AKUN
   port: 443
   password: PASSWORD
   udp: true
-  sni: BUGSNI.COM
+  sni: ISI BUG
   skip-cert-verify: true
   network: grpc
   grpc-opts:
