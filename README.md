@@ -5,6 +5,8 @@
   - [Kelebihan dan Kekurangan Tiap Config](#kelebihan-dan-kekurangan-tiap-config) 
 - [Persiapan](#persiapan)  
   - [Download File Config](#download-file-config)
+    - [Config Rule Online](#config-rule-online)
+    - [Config Rule Offline](#config-rule-offline)
   - [Setting Clash For Android](#setting-clash-for-android)     
 - [Langkah Pemasangan Config Rule Online](#langkah-pemasangan-config-rule-online)
 - [Langkah Pemasangan Config Rule Offline](#langkah-pemasangan-config-rule-offline)
@@ -41,7 +43,13 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 ## Download File Config
 
-**Unduh File Keseluruhan Config dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9274534/clash_for_android-main.zip)
+### Config Rule Online
+
+**Unduh File `CONFIG_RULE_ONLINE` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9274534/clash_for_android-main.zip)
+
+### Config Rule Offline
+
+- Coming Soon
 
 
 ## Setting Clash For Android
