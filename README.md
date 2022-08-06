@@ -55,6 +55,11 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download
 2. Rule provider bisa anda custom dengan kemauan sendiri
 
+MODE | Keuntungan | Kelemahan
+------------ | ------------- | -------------
+Rule Online </span> | 1. Diwajibkan untuk terhubung ke internet dalam pemasangan config. Baik melalui data reguler, wifi, inject atau yang lain. Karena pemasangan config akan melalui proses download repository github
+2. Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini
+
 
 # PERSIAPAN
 
