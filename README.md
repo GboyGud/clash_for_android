@@ -58,7 +58,9 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 MODE | Kelebihan | Kekurangan
 ------------ | ------------- | -------------
 Rule Online </span> | Config yang rule providernya tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini </span> | Diwajibkan untuk terhubung ke internet dalam pemasangan config. Baik melalui data reguler/wifi. Karena pemasangan config akan melalui proses download repository github  
-</span> | 2. kekurangan
+</span> | Rule akan memperoleh update terbaru jika menyinkronkannya </span> | Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini
+Rule Offline </span> | Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download </span> | Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu persatu (manual)
+</span> | Rule provider bisa anda custom dengan kemauan sendiri </span> | Rule provider tidak bisa auto update dengan kata lain harus mengedit dan menambahkan sendiri
 
 
 # PERSIAPAN
