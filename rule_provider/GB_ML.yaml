@@ -24,8 +24,10 @@ payload:
   - DOMAIN,tnc16-alisg.isnssdk.com
   - DOMAIN,gplog-sg.byteoversea.com
   - DOMAIN,xlog.byteoversea.com
-#updategoodboy
+#UPDATE by GOODBOY
 #port tcp only
+  - DST-PORT,4018
+  - DST-PORT,4016
   - DST-PORT,5510
   - DST-PORT,5511
   - DST-PORT,5512
