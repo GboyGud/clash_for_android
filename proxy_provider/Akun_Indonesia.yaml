@@ -1,0 +1,30 @@
+proxies:
+#All Format Akun Clash Silahkan Akses Link Berikut: https://github.com/GboyGud/FORMAT_AKUN_CLASH
+#Mulai Baris Ini Kebawah Isi Dengan Akun Anda Sendiri
+
+- name: TrojanId-WS
+  server: 172.67.73.39
+  port: 443
+  type: trojan
+  password: fac80540-4474-11ed-b3b1-1239d0255272
+  network: ws
+  sni: id5-trojan.bonds.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+    headers:
+        Host: id5-trojan.bonds.id
+- name: TrojanId3-WS
+  server: 172.67.73.39
+  port: 443
+  type: trojan
+  password: 3d2b9100-4fde-11ed-ab2e-1239d0255272
+  network: ws
+  sni: idtj-ikd.bonds.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+    headers:
+        Host: idtj-ikd.bonds.id

@@ -1,0 +1,29 @@
+proxies:
+#All Format Akun Clash Silahkan Akses Link Berikut: https://github.com/GboyGud/FORMAT_AKUN_CLASH
+#Mulai Baris Ini Kebawah Isi Dengan Akun Anda Sendiri
+
+- name: Trojansg-WS
+  server: 172.67.73.39
+  port: 443
+  type: trojan
+  password: PASSWORD
+  network: ws
+  sni: sg-melbi.mahavpn.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan-ws
+    headers:
+        Host: sg-melbi.mahavpn.my.id
+
+- name: Trojansg-Grpc
+  type: trojan
+  server: 172.67.73.39
+  port: 443
+  password: PASSWORD
+  udp: true
+  sni: sg-melbi.mahavpn.my.id
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: trojan-grpc
