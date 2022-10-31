@@ -1,4 +1,8 @@
 payload:
+# NAME: Rule Gaming Mobilelegend
+# AUTHOR: Goodboy
+# TEEGRAM: https://t.me/AfthonPc
+# UPDATED: 2022-09-02
   - DOMAIN-SUFFIX,www.mobilelegends.com
   - DOMAIN,m.mobilelegends.com
   - DOMAIN,app.adjust.net.in
@@ -7,6 +11,7 @@ payload:
   - DOMAIN,ml.CS30.NET
   - DOMAIN,pv.sohu.com
   - DOMAIN-SUFFIX,*.youngjoygame.com
+  - DOMAIN-SUFFIX,youngjoygame.com
   - DOMAIN-SUFFIX,*.yuanzhanapp.com
   - DOMAIN-SUFFIX,*.aihelp.net
   - DOMAIN-SUFFIX,mobilelegends.com
@@ -18,16 +23,17 @@ payload:
   - DOMAIN-SUFFIX,mobilelegends.net
   - DOMAIN-SUFFIX,mobilelegends.org
   - DOMAIN-SUFFIX,mobilelegends.com.cn
-  - DOMAIN-SUFFIX,youngjoygame.com
   - DOMAIN-SUFFIX,yuanzhanapp.com
   - DOMAIN-SUFFIX,aihelp.net
   - DOMAIN,tnc16-alisg.isnssdk.com
   - DOMAIN,gplog-sg.byteoversea.com
   - DOMAIN,xlog.byteoversea.com
-#UPDATE by GOODBOY
 #port tcp only
-  - DST-PORT,4018
+  - DST-PORT,4014
+  - DST-PORT,4015
   - DST-PORT,4016
+  - DST-PORT,4017
+  - DST-PORT,4018
   - DST-PORT,5510
   - DST-PORT,5511
   - DST-PORT,5512
@@ -74,7 +80,6 @@ payload:
   - DST-PORT,4007
   - DST-PORT,4008
   - DST-PORT,4009
-  - DST-PORT,5228
   - DST-PORT,8001
   - DST-PORT,8130
   - DST-PORT,9120
