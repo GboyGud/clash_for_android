@@ -93,7 +93,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import4.jpg" border="0">
 
-7. Arahkan ke directory anda mengekstrak file config. Kemudian pilih file yang bernama `CONFIG_RULE_ONLINE.yaml`
+7. Arahkan ke directory anda mengekstrak file config. Kemudian pilih file yang bernama `CFA_RULE_ONLINE_v2.yaml`
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import5v2.jpg" border="0">
 
@@ -117,7 +117,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import9v2.jpg" border="0">
 
-13. Edit kedua file `AKUN_UMUM.yaml` dan `AKUN_GAME.yaml` untuk menambahkan akun vpn anda. Pastikan sesuai dengan [FORMAT AKUN CLASH](https://github.com/GboyGud/FORMAT_AKUN_CLASH). Pengeditan bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
+13. Edit kedua file `Akun_Indonesia.yaml` dan `Akun_Singapura.yaml` untuk menambahkan akun vpn anda sesuai server id/sg. Pastikan sesuai dengan [FORMAT AKUN CLASH](https://github.com/GboyGud/FORMAT_AKUN_CLASH). Pengeditan bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import10v2.jpg" border="0">
 
