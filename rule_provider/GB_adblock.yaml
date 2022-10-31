@@ -1,7 +1,7 @@
 payload:
-# > Google Ads
 # by > RZP
-  - DOMAIN-SUFFIX,pagead2.googlesyndication.com
+# > Google Ads
+#  - DOMAIN-SUFFIX,pagead2.googlesyndication.com
   - DOMAIN-SUFFIX,ads.google.com
   - DOMAIN-SUFFIX,adservice.google.com
   - DOMAIN-SUFFIX,googleadservices.com
@@ -75,6 +75,49 @@ payload:
   - DOMAIN-SUFFIX,click.sender.yandex.ru
   - DOMAIN-SUFFIX,share.yandex.ru
   - DOMAIN-SUFFIX,yandexadexchange.net
+
+  # > custom by aftonpc
+  - DOMAIN-SUFFIX,match.adsrvr.org
+  - DOMAIN-SUFFIX,tsyndicate.com
+  - DOMAIN-SUFFIX,pxl.tsyndicate.com
+  - DOMAIN-SUFFIX,cdn.tsyndicate.com
+  - DOMAIN-SUFFIX,syndication.realsrv.com
+  - DOMAIN-SUFFIX,adsco.re
+  - DOMAIN-SUFFIX,syndication.exosrv.com
+  - DOMAIN-SUFFIX,nereserv.com
+  - DOMAIN-SUFFIX,clickadilla.com
+  - DOMAIN-SUFFIX,adxadserv.com
+  - DOMAIN-SUFFIX,static-clst.avgle.com
+  - DOMAIN-SUFFIX,forlumineoner.com
+  - DOMAIN-SUFFIX,jaavnacsdw.com
+  - DOMAIN-SUFFIX,taaqhr6axacd2um.com
+  - DOMAIN-SUFFIX,stagepopkek.com
+  - DOMAIN-SUFFIX,kxnggkh2nj.com
+  - DOMAIN-SUFFIX,limurol.com
+  - DOMAIN-SUFFIX,abservinean.com
+  - DOMAIN-SUFFIX,static.adsafeprotected.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,aeeg5idiuenbi7erger.com
+  - DOMAIN-SUFFIX,histats.com
+  - DOMAIN-SUFFIX,fdelphaswcealifornica.com
+  - DOMAIN-SUFFIX,morrowfreezer.com
+  - DOMAIN-SUFFIX,akmxts.com
+  - DOMAIN-SUFFIX,berthsorry.com
+  - DOMAIN-SUFFIX,xxxijmp.com
+  - DOMAIN-SUFFIX,jads.co
+  - DOMAIN-SUFFIX,berthsorry.com
+  - DOMAIN-SUFFIX,lanternpossibly.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,plumposterity.com
+  - DOMAIN-SUFFIX,amung.us
+  - DOMAIN-SUFFIX,daisycontroversy.com
+  - DOMAIN-SUFFIX,juicyads.com
+  - DOMAIN-SUFFIX,xlviirdr.com
+  - DOMAIN-SUFFIX,addthis.com
+  - DOMAIN-SUFFIX,jwpcdn.com
+  - DOMAIN-SUFFIX,cuddlethehyena.com
+  - DOMAIN-SUFFIX,imasdk.googleapis.com
+  - DOMAIN-SUFFIX,fdelphaswcealifornica.com
 
 # > Google Analytics
   - DOMAIN-SUFFIX,google-analytics.com
@@ -234,6 +277,12 @@ payload:
   - DOMAIN-SUFFIX,stocks-analytics-events.news.apple-dns.net
 
 # > Situs Porn
+  - DOMAIN-SUFFIX,tubesafari.com
+  - DOMAIN-SUFFIX,www.pornhub.com
+  - DOMAIN-SUFFIX,pornkai.com
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,www.xnxx.com
+  - DOMAIN-SUFFIX,www.xvideos.com
   - DOMAIN-SUFFIX,0plkijj.vip
   - DOMAIN-SUFFIX,114av.xyz
   - DOMAIN-SUFFIX,128100.xyz
