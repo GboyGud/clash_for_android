@@ -48,7 +48,7 @@ Simpel </span> | 1. Anda harus rajin-rajin pindah proxy group karena tidak memak
 
 ### Config Simpel
 
-**Unduh File `CONFIG_SIMPEL_v2` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9901101/CFA_SIMPEL_v2.zip)
+**Unduh File `CONFIG_SIMPEL_v2` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9901399/CFA_SIMPEL_v2.zip)
 
 
 ## Setting Clash For Android
