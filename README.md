@@ -47,9 +47,9 @@ Simpel </span> | 1. Anda harus rajin-rajin pindah proxy group karena tidak memak
 
 **Unduh File `CONFIG_RULE_ONLINE_v2` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9900980/CFA_RULE_ONLINE_v2.zip)
 
-### Config Rule Offline
+### Config Simpel
 
-**Unduh File `CONFIG_RULE_ONLINE_v2` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9900980/CFA_RULE_ONLINE_v2.zip)
+**Unduh File `CONFIG_SIMPEL_v2` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9901101/CFA_SIMPEL_v2.zip)
 
 
 ## Setting Clash For Android
@@ -152,7 +152,7 @@ Simpel </span> | 1. Anda harus rajin-rajin pindah proxy group karena tidak memak
 
 **Lakukan semua langkah pada pemasangan 'CONFIG_RULE_ONLINE' karena pada dasarnya sama, yang membedakan adalah file config yang dimasukkan dan tidak ada proses download repo
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/icontambah.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/simpelimport.jpg" border="0">
 
 # CARA UPDATE RULE ONLINE
 
