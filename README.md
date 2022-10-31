@@ -45,7 +45,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 ### Config Rule Online
 
-**Unduh File `CONFIG_RULE_ONLINE_v2` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9900751/CFA_RULE_ONLINE_v2.zip)
+**Unduh File `CONFIG_RULE_ONLINE_v2` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9900875/CFA_RULE_ONLINE_v2.zip)
 
 ### Config Rule Offline
 
