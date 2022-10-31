@@ -150,7 +150,7 @@ Simpel </span> | 1. Anda harus rajin-rajin pindah proxy group karena tidak memak
 
 # LANGKAH PEMASANGAN CONFIG SIMPEL
 
-**Lakukan semua langkah pada pemasangan 'CONFIG_RULE_ONLINE' karena pada dasarnya sama, yang membedakan adalah file config yang dimasukkan dan tidak ada proses download repo
+**Lakukan semua langkah pada pemasangan `CONFIG_RULE_ONLINE` karena pada dasarnya sama, yang membedakan adalah file config yang dimasukkan dan tidak ada proses download repository github**
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/simpelimport.jpg" border="0">
 
