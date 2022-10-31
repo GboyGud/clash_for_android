@@ -95,7 +95,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 7. Arahkan ke directory anda mengekstrak file config. Kemudian pilih file yang bernama `CONFIG_RULE_ONLINE.yaml`
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/impt5.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import5v2.jpg" border="0">
 
 8. Setelah config utamanya diimport, selanjutnya adalah mengimport file proxy. Dengan cara klik `Provider Files`
 
@@ -107,19 +107,19 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 10. Arahkan kembali ke directory anda mengekstrak file config, lalu masuk ke folder `proxy_provider`
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/impt7.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import7v2.jpg" border="0">
 
 11. Tambahkan kedua file yang ada di dalam folder `proxy_provider` tersebut
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import8.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import8v2.jpg" border="0">
 
 12. Maka akan muncul kedua file yang telah diimport tadi
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import9.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import9v2.jpg" border="0">
 
 13. Edit kedua file `AKUN_UMUM.yaml` dan `AKUN_GAME.yaml` untuk menambahkan akun vpn anda. Pastikan sesuai dengan [FORMAT AKUN CLASH](https://github.com/GboyGud/FORMAT_AKUN_CLASH). Pengeditan bisa menggunakan app editor apapun, namun saran saya menggunakan `QuickEdit`
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import10.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/import10v2.jpg" border="0">
 
 14. Setelah pengeditan selesai, klik back dan jangan lupa disimpan dengan menekan tombol di pojok kanan atas
 
