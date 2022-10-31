@@ -139,7 +139,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 18. Pastikan akun vpn yang anda masukkan tadi telah muncul ping untuk memastikan konek/tidaknya. Dengan mengeceknya pada tab `Proxy`
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/run2.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/run2v2.jpg" border="0">
 
 19. Tekan icon `petir` untuk mengecek ping, dan pastikan semua akun keluar pingnya seperti digambar
 
@@ -155,7 +155,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 1. Konekkaan clash android anda agar muncul menu `Providers` lalu diklik
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/update1.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/update1v2.jpg" border="0">
 
 2. Klik icon refresh pada pojok kanan atas
 
