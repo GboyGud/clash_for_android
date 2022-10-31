@@ -6,10 +6,10 @@
 - [Persiapan](#persiapan)  
   - [Download File Config](#download-file-config)
     - [Config Rule Online](#config-rule-online)
-    - [Config Rule Offline](#config-rule-offline)
+    - [Config Simpel](#config-simpel)
   - [Setting Clash For Android](#setting-clash-for-android)     
 - [Langkah Pemasangan Config Rule Online](#langkah-pemasangan-config-rule-online)
-- [Langkah Pemasangan Config Rule Offline](#langkah-pemasangan-config-rule-offline)
+- [Langkah Pemasangan Config Simpel](#langkah-pemasangan-config-Simpel)
 - [Cara Update Rule Online](#cara-update-rule-online)
 - [Thanks To](#thanks-to)
 
@@ -25,9 +25,9 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 # KETERANGAN CONFIG
 
-**Config Yang Saya Sediakan Terdapat Dua Model yaitu:** `CONFIG RULE ONLINE` **dan** `CONFIG RULE OFFLINE`
-- Config rule online adalah config yang rule provider nya berbasis `URL` dan akan selalu sinkron dengan repository github ini ketika melakukan update
-- Config rule offline adalah config yang rule providernya berbasis `FILE` dengan metode pemasangan secara manual
+**Config Yang Saya Sediakan Terdapat Dua Model yaitu:** `CONFIG RULE ONLINE` **dan** `CONFIG SIMPEL`
+- Config rule online adalah config yang rule provider nya berbasis `URL` dan akan selalu sinkron dengan repository github ini ketika melakukan update.
+- Config rule simpel adalah config yang tidak memakai rule apapun.
 
 ## Kelebihan dan Kekurangan Tiap Config
 
@@ -35,8 +35,8 @@ CONFIG | KEKURANGAN | KELEBIHAN
 ------------ | ------------- | -------------
 Rule Online </span> | 1. Diwajibkan terhubung ke internet, baik melalui data reguler/wifi. Karena pemasangan config akan melalui proses download repository github </span> | 1. Rule provider tinggal pakai tidak perlu repot-repot edit, memasukkan manual dan bingung mencari rule sana sini  
 </span> | 2. Rule provider tidak bisa di custom dengan rule milik anda sendiri, karena akan auto sinkron dengan rule di repo github ini </span> | 2. Rule akan memperoleh update terbaru jika menyinkronkannya
-Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena perlu memasukkan rule provider satu persatu (manual) </span> | 1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download
-</span> | 2. Rule provider tidak bisa auto update dengan kata lain harus mengedit dan menambahkan sendiri </span> | 2. Rule provider bisa anda custom dengan kemauan sendiri
+Simpel </span> | 1. Anda harus rajin-rajin pindah proxy group karena tidak memakai rule yang memisah antar server indo dan server luar </span> | 1. Tidak perlu terhubung ke internet pada saat pemasangan config karena tidak ada proses download
+</span> | 2. Jika anda membutuhkan rule, maka anda harus bisa mengeditnya sendiri secara manual </span> | 2. Rule provider bisa anda custom dengan kemauan sendiri
 
 
 # PERSIAPAN
@@ -49,7 +49,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 ### Config Rule Offline
 
-- Coming Soon
+**Unduh File `CONFIG_RULE_ONLINE_v2` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/9900980/CFA_RULE_ONLINE_v2.zip)
 
 
 ## Setting Clash For Android
@@ -62,7 +62,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting2.jpg" border="0">
 
-3. Pada menu Override tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Rule Mode`
+3. Pada menu Override tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Rule Mode` jika anda memakai 'CONFIG_RULE_ONLINE dan ubah menjadi 'Global Mode' jika anda memakai 'CONFIG_SIMPEL'
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3x.jpg" border="0">
 
@@ -148,8 +148,11 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 20. Selesai
 
 
-# LANGKAH PEMASANGAN CONFIG RULE OFFLINE
-- Coming Soon
+# LANGKAH PEMASANGAN CONFIG SIMPEL
+
+**Lakukan semua langkah pada pemasangan 'CONFIG_RULE_ONLINE' karena pada dasarnya sama, yang membedakan adalah file config yang dimasukkan dan tidak ada proses download repo
+
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/icontambah.jpg" border="0">
 
 # CARA UPDATE RULE ONLINE
 
