@@ -20,7 +20,6 @@ Anda Bisa Menghubungi Kami Untuk Permasalahan Config
 
 - [Instagram](https://instagram.com/afthon_pc)
 - [Telegram](https://t.me/AfthonPc)
-- [Whatsapp](https://wa.me/6285334821022)
 
 
 # KETERANGAN CONFIG
