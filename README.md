@@ -62,7 +62,7 @@ Simpel </span> | 1. Anda harus rajin-rajin pindah proxy group karena tidak memak
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting2.jpg" border="0">
 
-3. Pada menu Override tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Rule Mode` jika anda memakai 'CONFIG_RULE_ONLINE dan ubah menjadi 'Global Mode' jika anda memakai 'CONFIG_SIMPEL'
+3. Pada menu Override tadi, scroll kebawah hingga berada pada tab `Mode`. Pastikan anda mengatur mode yang semula Do not modify menjadi `Rule Mode` jika anda memakai `CONFIG_RULE_ONLINE` dan ubah menjadi `Global Mode` jika anda memakai `CONFIG_SIMPEL`
 
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/setting3x.jpg" border="0">
 
