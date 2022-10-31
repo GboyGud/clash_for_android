@@ -143,7 +143,7 @@ Rule Offline </span> | 1. Proses pemasangan config akan sedikit ribet karena per
 
 19. Tekan icon `petir` untuk mengecek ping, dan pastikan semua akun keluar pingnya seperti digambar
 
-   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/run3x.jpg" border="0">
+   <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/run3xv2.jpg" border="0">
 
 20. Selesai
 
