@@ -1,0 +1,51 @@
+#!/bin/ash
+#mahavpn
+    
+run_back() {
+echo ""
+read -p "Pres Enter kembali ke HOME : " kurangtamvan        
+bw    
+}
+        
+# Color Validation
+DF='\e[39m'
+Bold='\e[1m'
+Blink='\e[5m'
+yell='\e[33m'
+red='\e[31m'
+green='\e[32m'
+blue='\e[34m'
+PURPLE='\e[35m'
+cyan='\e[36m'
+Lred='\e[91m'
+Lgreen='\e[92m'
+Lyellow='\e[93m'
+NC='\e[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+LIGHT='\033[0;37m'
+clear 
+echo -e "\e[33m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " \e[1;32m    • Monitor Bandwith By MahaVPN •              \e[m"
+echo -e "\e[33m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " [\e[1;32m•1\e[m] \e[1;32mMonitor Per 5 Menit\e[m"
+echo -e " [\e[1;32m•2\e[m] \e[1;32mMonitor Per Jam\e[m"
+echo -e " [\e[1;32m•3\e[m] \e[1;32mMonitor Per Hari\e[m"
+echo -e " [\e[1;32m•4\e[m] \e[1;32mMonitor Per Bulan\e[m"
+echo -e " [\e[1;32m•5\e[m] \e[1;32mMonitor Per Tahun\e[m"
+echo -e " [\e[1;32m•6\e[m] \e[1;32mLive Monitoring\e[m"
+echo -e " [\e[1;32m•x\e[m] \e[1;32mClose Monitor\e[m"
+echo -e   ""
+echo -e "\e[33m══════════════════════════════════════════\033[0m"
+read -p " Please Input Number  [1-6 or x] :  "  opt
+echo -e   ""
+case $opt in
+1) clear ; vnstat -5 ; run_back ;;
+2) clear ; vnstat -h ; run_back ;;
+3) clear ; vnstat -d ; run_back ;;
+4) clear ; vnstat -m ; run_back ;;
+5) clear ; vnstat -y ; run_back ;;
+6) clear ; vnstat -l;;
+x) cd ;;
+*) echo "Anda salah tekan " ; sleep 1 ; bw ;;
+esac
