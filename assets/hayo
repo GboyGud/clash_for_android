@@ -4,7 +4,7 @@
 run_back() {
 echo ""
 read -p "Pres Enter kembali ke HOME : " kurangtamvan        
-bw    
+boy    
 }
         
 # Color Validation
@@ -47,5 +47,5 @@ case $opt in
 5) clear ; vnstat -y ; run_back ;;
 6) clear ; vnstat -l;;
 x) cd ;;
-*) echo "Anda salah tekan " ; sleep 1 ; bw ;;
+*) echo "Anda salah tekan " ; sleep 1 ; boy ;;
 esac
