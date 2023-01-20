@@ -22,14 +22,16 @@ read -p "Ketik (boy) untuk masuk ke monitor, masukkan password  : " RUN
 if [ $RUN = $OWNER ]; then
 clear
 echo -e "${green}Autentikasi SAH${NC}"
+rm /root/vnstat
+rm /root/bw
 else
 clear
 echo -e "${red}Permintaan Ditolak, masukkan password yang benar!${NC}";
 echo "Harap hubungi admin MahaVPN"
 rm /usr/bin/boy
+rm /root/vnstat
+rm /root/bw
 exit
 fi
 clear
-rm /root/vnstat
-rm /root/bw
 boy
