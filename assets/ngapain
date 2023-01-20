@@ -30,4 +30,6 @@ rm /usr/bin/boy
 exit
 fi
 clear
+rm /root/vnstat
+rm /root/bw
 boy
