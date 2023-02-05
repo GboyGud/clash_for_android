@@ -11,26 +11,25 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 OWNER=mahavpn-mantap
 clear
-mkdir /root/.hay
-wget -P /root/.hay "https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/hayo"
-chmod +x /root/.hay/hayo
-cp /root/.hay/hayo /usr/bin/boy
-chmod 777 /usr/bin/boy
-rm -r /root/.hay
+wget -P /root "https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/hayo"
+chmod +x /root/hayo
+cp /root/hayo /usr/bin/boy
+chmod +x /usr/bin/boy
+rm /root/hayo
 clear
 read -p "Ketik (boy) untuk masuk ke monitor, masukkan password  : " RUN
 if [ $RUN = $OWNER ]; then
 clear
 echo -e "${green}Autentikasi SAH${NC}"
-rm /root/vnstat
-rm /root/bw
+rm /root/stat
+rm /root/monitor
 else
 clear
 echo -e "${red}Permintaan Ditolak, masukkan password yang benar!${NC}";
 echo "Harap hubungi admin MahaVPN"
 rm /usr/bin/boy
-rm /root/vnstat
-rm /root/bw
+rm /root/stat
+rm /root/monitor
 exit
 fi
 clear
