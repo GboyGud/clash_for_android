@@ -3,99 +3,16 @@ proxies:
 #Ada Pertanyaan Seputar Config? Silahkan Hubungi: https://t.me/AfthonPc
 #Mulai Baris Ini Kebawah Isi Dengan Akun Anda Sendiri
 
-- name: Medas-WS-Lifetime
-  server: qiscus.com
+- name: VIP-ID-MahaVPN
+  server: BUGMU
   port: 443
   type: trojan
-  password: aftonpc
+  password: PASSWORD
   network: ws
-  sni: id-x3.mahavpn.tech
+  sni: hostmu.mahavpn.tech
   skip-cert-verify: true
   udp: true
   ws-opts:
     path: /trojan
     headers:
-        Host: id-x3.mahavpn.tech
-
-- name: Nusa-WS-Lifetime
-  server: qiscus.com
-  port: 443
-  type: trojan
-  password: orangbaik
-  network: ws
-  sni: nusa01.premiumvip.tech
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan-go
-    headers:
-        Host: nusa01.premiumvip.tech
-
-- name: IKD-WS-Lifetime
-  server: qiscus.com
-  port: 443
-  type: trojan
-  password: aftonpc
-  network: ws
-  sni: ikd.vpnbejo.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan
-    headers:
-        Host: ikd.vpnbejo.my.id
-
-- name: Biznet-WS-Lifetime
-  server: qiscus.com
-  port: 443
-  type: trojan
-  password: aftonpc
-  skip-cert-verify: true
-  sni: biznet.vpnbejo.my.id
-  network: ws
-  ws-opts:
-    path: /trojan
-    headers:
-      Host: biznet.vpnbejo.my.id
-  udp: true
-
-- name: Herza-trWs-Lifetime
-  server: api.midtrans.com
-  port: 443
-  type: trojan
-  password: aftonpc
-  network: ws
-  sni: id1.mahavpn.xyz
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan
-    headers:
-        Host: id1.mahavpn.xyz
-        
-- name: Qwords-trWs-Lifetime
-  server: qiscus.com
-  port: 443
-  type: trojan
-  password: aftonpc
-  network: ws
-  sni: qwords.vpnbejo.my.id
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan
-    headers:
-        Host: qwords.vpnbejo.my.id
-- name: GCP-Ws-Lifetime
-  server: qiscus.com
-  port: 443
-  type: trojan
-  password: aftonpc
-  network: ws
-  sni: id-vii.mahavpn.tech
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan
-    headers:
-        Host: id-vii.mahavpn.tech
+        Host: hostmu.mahavpn.tech
