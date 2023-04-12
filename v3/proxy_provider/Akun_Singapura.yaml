@@ -3,72 +3,16 @@ proxies:
 #Ada Pertanyaan Seputar Config? Silahkan Hubungi: https://t.me/AfthonPc
 #Mulai Baris Ini Kebawah Isi Dengan Akun Anda Sendiri
 
-- name: Linode
-  server: api.midtrans.com
+- name: VIP-SG-MahaVPN
+  server: BUGMU
   port: 443
   type: trojan
-  password: aftonpc
-  skip-cert-verify: true
-  sni: sg-iv.mahavpn.tech
+  password: PASSWORD
   network: ws
-  ws-opts:
-    path: /trojan
-    headers:
-      Host: sg-iv.mahavpn.tech
-  udp: true
-- name: Ovh-Ws-Lifetime
-  server: api.midtrans.com 
-  port: 443
-  type: trojan
-  password: aftonpc
-  network: ws
-  sni: sg4.mahavpn.xyz
+  sni: hostmu.mahavpn.tech
   skip-cert-verify: true
   udp: true
   ws-opts:
     path: /trojan
     headers:
-        Host: sg4.mahavpn.xyz
-
-- name: Melbi-Ws-Lifetime
-  server: api.midtrans.com 
-  port: 443
-  type: trojan
-  password: aftonpc
-  network: ws
-  sni: sg1.mahavpn.xyz
-  skip-cert-verify: true
-  udp: true
-  ws-opts:
-    path: /trojan
-    headers:
-        Host: sg1.mahavpn.xyz
-
-- name: DO-trws-lifetime
-  server: qiscus.com
-  port: 443
-  type: trojan
-  password: aftonpc
-  skip-cert-verify: true
-  sni: sg3.mahavpn.xyz
-  network: ws
-  ws-opts:
-    path: /trojan
-    headers:
-      Host: sg3.mahavpn.xyz
-  udp: true
-
-
-- name: AWS-Lftime1
-  server: api.midtrans.com
-  port: 443
-  type: trojan
-  password: umwah
-  skip-cert-verify: true
-  sni: amz01.premiumvip.tech
-  network: ws
-  ws-opts:
-    path: /trojan-go
-    headers:
-      Host: amz01.premiumvip.tech
-  udp: true
+        Host: hostmu.mahavpn.tech
