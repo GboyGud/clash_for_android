@@ -1,0 +1,79 @@
+payload:
+# AUTHOR: GoodboyXMahaVPN
+# TEEGRAM: https://t.me/AfthonPc
+# GRUP TELE: https://t.me/MahaVPN_Group
+  # > GOOGLE
+  - DOMAIN-SUFFIX,android.apis.google.com
+  - DOMAIN-SUFFIX,geomobileservices-pa.googleapis.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,inbox.google.com
+  - DOMAIN-SUFFIX,lh3.googleusercontent.com
+  - DOMAIN-SUFFIX,accounts.google.com
+  - DOMAIN-SUFFIX,functions3.ultraviewer.net
+  - DOMAIN-SUFFIX,clients3.google.com
+  - DOMAIN-SUFFIX,playatoms-pa.googleapis.com
+  - DOMAIN-SUFFIX,android.clients.google.com
+  - DOMAIN-SUFFIX,scontent-hkg4-1.xx.fbcdn.net
+  - DOMAIN-SUFFIX,download.microsoft.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,dns.google
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,www.googleapis.com
+  - DOMAIN-SUFFIX,accounts.google.com
+  - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,chromesyncpasswords-pa.googleapis.com
+  - DOMAIN-SUFFIX,www.google.com
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
+  - DOMAIN-SUFFIX,connectivitycheck.android.com
+  - DOMAIN-SUFFIX,inbox.google.com
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
+
+    # > Umum
+  - DST-PORT,5228
+
+  
+    # > Zerotier
+  - DOMAIN,my.zerotier.com
+  - DOMAIN-SUFFIX,zerotier.com
+  - IP-CIDR,103.195.103.0/24
+  - IP-CIDR,84.17.53.0/24
+  - IP-CIDR,50.7.252.0/24
+  - DST-PORT,9993
+  - DST-PORT,20431
+  - DST-PORT,29994
+  - DST-PORT,40775
+  - DST-PORT,43215
+  
+  # > BING
+  - DOMAIN-SUFFIX,4.bing.com
+  - DOMAIN-SUFFIX,www.bing.com
+
+  # > MICROSOFT
+  - DOMAIN-SUFFIX,smartscreen-prod.microsoft.com
+  - DOMAIN-SUFFIX,self.events.data.microsoft.com
+  - DOMAIN-SUFFIX,nav.smartscreen.microsoft.com
+  - DOMAIN-SUFFIX,edge.microsoft.com
+
+  # > DISQUS
+  - DOMAIN-SUFFIX,myip.disqus.com
+  - DOMAIN-SUFFIX,disqus.com
+  - DOMAIN-SUFFIX,c.disquscdn.com
+
+  # > MEDIAFIRE
+  - DOMAIN-SUFFIX,app.mediafire.com
+
+  # > GOOGLE MEET
+  - DOMAIN-SUFFIX,meetings.googleapis.com
+  # > GOOGLE CLASSROOM
+  - DOMAIN-SUFFIX,classroom.google.com
+  # > FIFA
+  - DOMAIN-SUFFIX,fm22-prod-hygeialogsvc.prod.fuel.ddns.ea.com
+  - DOMAIN-SUFFIX,fm22.prod.fuel.ddns.ea.com
+  - DOMAIN-SUFFIX,gateway.ea.com
+  - DOMAIN-SUFFIX,pin-river.data.ea.com
+  - DOMAIN-SUFFIX,accounts.ea.com
+  - DOMAIN-SUFFIX,sg-link.byteoversea.com
+
+  # > BLUESTACK
+  - DOMAIN-SUFFIX,cloud.bluestacks.com
+  - DOMAIN-SUFFIX,cdn3.bluestacks.com
