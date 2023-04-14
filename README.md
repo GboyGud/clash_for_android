@@ -44,7 +44,7 @@ Simpel </span> | 1. Anda harus rajin-rajin pindah proxy group karena tidak memak
 
 ### Config Rule Online
 
-**Unduh File `CONFIG_RULE_ONLINE_v3` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/11232840/CONFIG_RULE_ONLINE_v3.zip)
+**Unduh File `CONFIG_RULE_ONLINE_v3` dan ekstrak zip menggunakan `Zarchiver` atau pengekstrak yang lain. Download zip config** [DISINI](https://github.com/GboyGud/clash_for_android/files/11233112/CFA_RULE_ONLINE_v3.zip)
 
 ### Config Simpel
 
