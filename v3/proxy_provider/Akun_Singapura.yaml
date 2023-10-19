@@ -9,10 +9,10 @@ proxies:
   type: trojan
   password: PASSWORD
   network: ws
-  sni: hostmu.mahavpn.tech
+  sni: HOSTMU
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojan
+    path: /PATH
     headers:
-        Host: hostmu.mahavpn.tech
+        Host: HOSTMU
