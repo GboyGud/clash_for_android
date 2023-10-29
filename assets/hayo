@@ -1,51 +1,8 @@
-#!/bin/ash
-#mahavpn
-    
-run_back() {
-echo ""
-read -p "Pres Enter kembali ke HOME : " kurangtamvan        
-boy    
-}
-        
-# Color Validation
-DF='\e[39m'
-Bold='\e[1m'
-Blink='\e[5m'
-yell='\e[33m'
-red='\e[31m'
-green='\e[32m'
-blue='\e[34m'
-PURPLE='\e[35m'
-cyan='\e[36m'
-Lred='\e[91m'
-Lgreen='\e[92m'
-Lyellow='\e[93m'
-NC='\e[0m'
-GREEN='\033[0;32m'
-ORANGE='\033[0;33m'
-LIGHT='\033[0;37m'
-clear 
-echo -e "\e[33m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e " \e[1;32m    • Monitor Bandwith By MahaVPN •              \e[m"
-echo -e "\e[33m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e " [\e[1;32m•1\e[m] \e[1;32mMonitor Per 5 Menit\e[m"
-echo -e " [\e[1;32m•2\e[m] \e[1;32mMonitor Per Jam\e[m"
-echo -e " [\e[1;32m•3\e[m] \e[1;32mMonitor Per Hari\e[m"
-echo -e " [\e[1;32m•4\e[m] \e[1;32mMonitor Per Bulan\e[m"
-echo -e " [\e[1;32m•5\e[m] \e[1;32mMonitor Per Tahun\e[m"
-echo -e " [\e[1;32m•6\e[m] \e[1;32mLive Monitoring\e[m"
-echo -e " [\e[1;32m•x\e[m] \e[1;32mClose Monitor\e[m"
-echo -e   ""
-echo -e "\e[33m══════════════════════════════════════════\033[0m"
-read -p " Please Input Number  [1-6 or x] :  "  opt
-echo -e   ""
-case $opt in
-1) clear ; vnstat -5 ; run_back ;;
-2) clear ; vnstat -h ; run_back ;;
-3) clear ; vnstat -d ; run_back ;;
-4) clear ; vnstat -m ; run_back ;;
-5) clear ; vnstat -y ; run_back ;;
-6) clear ; vnstat -l;;
-x) cd ;;
-*) echo "Anda salah tekan " ; sleep 1 ; boy ;;
-esac
+#!/bin/bash
+# Always Support MahaVPN
+# Join Channel - https://t.me/MahaVPN_Channel
+# Join Grup VIP Dengan Berlangganan VPN Premium, Link PM Telegram @AfthonPc
+
+z="
+";ez='yell';jCz='r  [';IDz='5) c';ABz='2m'\''';sBz='32m•';sCz='1) c';kCz='1-6 ';pz='PURP';aCz='  ""';YBz='━\03';NBz='[0;3';HBz='N='\''\';rz='5m'\''';ECz='er J';Bz='back';bCz='33m═';ODz='*) e';xBz='or P';UCz='ng\e';JBz='0;32';yBz='er 5';PCz='ahun';XDz='1 ; ';TDz='teka';eBz='  • ';gBz='tor ';NCz='5\e[';Lz='ali ';Hz='"Pre';cBz='[1;3';lz='e[32';QBz='T='\''\';tCz='lear';Tz='}';WBz='33m ';RBz='0;37';qBz='" [\';oCz='opt';EDz='3) c';FBz='\e[0';ZCz='itor';bz='k='\''\';hz=''\''\e[';vBz='32mM';BBz='Lyel';cz='e[5m';JDz='t -y';SBz='clea';TBz='r';Fz='read';rBz='e[1;';WCz='32mC';fBz='Moni';Mz='ke H';KBz='ORAN';BCz='it\e';CDz='2) c';WDz='eep ';GCz='3\e[';RCz='32mL';KDz='6) c';GBz='GREE';Dz='echo';QDz='"And';lBz='VPN ';fCz='ease';kBz='Maha';qCz=' $op';Jz='ter ';kz='n='\''\';aBz='"';VDz='; sl';JCz='4\e[';TCz='tori';nz='blue';SCz='ive ';LDz='t -l';lCz='or x';iz='31m'\''';dz=''\''';MDz='x) c';Az='run_';HDz='t -m';NDz='d ;;';wBz='onit';mBz='•   ';Ez=' ""';rCz='t in';ZBz='3[0m';PBz='LIGH';Yz='='\''\e';LCz='ulan';Wz='9m'\''';IBz='033[';Nz='OME ';uz='Lred';sz='cyan';PDz='cho ';Zz='[1m'\''';az='Blin';vz='[91m';LBz='GE='\''';BDz=';;';OBz='3m'\''';yz='\e[9';QCz='6\e[';FCz='am\e';VCz='x\e[';ICz='ari\';Rz='mvan';DBz='93m'\''';YDz='boy ';fz='[33m';XBz='━━━━';UBz=' -e ';OCz='er T';xz='en='\''';Xz='Bold';tz='[36m';Uz='DF='\''';ZDz='esac';xCz=' ; r';dCz='═\03';wz='Lgre';Pz='kura';CCz='[m"';dBz='2m  ';yCz='un_b';vCz='nsta';bBz='" \e';YCz=' Mon';XCz='lose';Sz='boy';oz='[34m';nBz='    ';nCz=' "  ';Kz='kemb';mCz='] : ';pBz='e[m"';KCz='er B';hCz='ut N';Oz=': " ';mz='m'\''';DCz='2\e[';uCz=' ; v';oBz='   \';jBz=' By ';uBz='m] \';Qz='ngta';tBz='1\e[';eCz='" Pl';qz='LE='\''';pCz='case';FDz='t -d';wCz='t -5';MCz='\e[m';iCz='umbe';jz='gree';Iz='s En';gCz=' Inp';SDz='lah ';GDz='4) c';RDz='a sa';ACz=' Men';MBz='\033';HCz='er H';gz='red=';ADz='ack ';hBz='Band';CBz='low=';VBz='"\e[';Gz=' -p ';Cz='() {';EBz='NC='\''';UDz='n " ';Vz='\e[3';DDz='t -h';cCz='════';iBz='with';
+eval "$Az$Bz$Cz$z$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$z$Tz$z$Uz$Vz$Wz$z$Xz$Yz$Zz$z$az$bz$cz$dz$z$ez$Yz$fz$dz$z$gz$hz$iz$z$jz$kz$lz$mz$z$nz$Yz$oz$dz$z$pz$qz$Vz$rz$z$sz$Yz$tz$dz$z$uz$Yz$vz$dz$z$wz$xz$yz$ABz$z$BBz$CBz$hz$DBz$z$EBz$FBz$mz$z$GBz$HBz$IBz$JBz$mz$z$KBz$LBz$MBz$NBz$OBz$z$PBz$QBz$IBz$RBz$mz$z$SBz$TBz$z$Dz$UBz$VBz$WBz$XBz$XBz$XBz$XBz$XBz$XBz$XBz$XBz$XBz$XBz$YBz$ZBz$aBz$z$Dz$UBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$nBz$oBz$pBz$z$Dz$UBz$VBz$WBz$XBz$XBz$XBz$XBz$XBz$XBz$XBz$XBz$XBz$XBz$YBz$ZBz$aBz$z$Dz$UBz$qBz$rBz$sBz$tBz$uBz$rBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$z$Dz$UBz$qBz$rBz$sBz$DCz$uBz$rBz$vBz$wBz$xBz$ECz$FCz$CCz$z$Dz$UBz$qBz$rBz$sBz$GCz$uBz$rBz$vBz$wBz$xBz$HCz$ICz$pBz$z$Dz$UBz$qBz$rBz$sBz$JCz$uBz$rBz$vBz$wBz$xBz$KCz$LCz$MCz$aBz$z$Dz$UBz$qBz$rBz$sBz$NCz$uBz$rBz$vBz$wBz$xBz$OCz$PCz$MCz$aBz$z$Dz$UBz$qBz$rBz$sBz$QCz$uBz$rBz$RCz$SCz$fBz$TCz$UCz$CCz$z$Dz$UBz$qBz$rBz$sBz$VCz$uBz$rBz$WCz$XCz$YCz$ZCz$MCz$aBz$z$Dz$UBz$aCz$z$Dz$UBz$VBz$bCz$cCz$cCz$cCz$cCz$cCz$cCz$cCz$cCz$cCz$cCz$dCz$ZBz$aBz$z$Fz$Gz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$z$Dz$UBz$aCz$z$pCz$qCz$rCz$z$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$z$CDz$tCz$uCz$vCz$DDz$xCz$yCz$ADz$BDz$z$EDz$tCz$uCz$vCz$FDz$xCz$yCz$ADz$BDz$z$GDz$tCz$uCz$vCz$HDz$xCz$yCz$ADz$BDz$z$IDz$tCz$uCz$vCz$JDz$xCz$yCz$ADz$BDz$z$KDz$tCz$uCz$vCz$LDz$BDz$z$MDz$NDz$z$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$BDz$z$ZDz"
