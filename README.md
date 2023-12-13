@@ -46,10 +46,15 @@ Semua tutorial/config yang dibuat tidak untuk dijualbelikan
 
 
 # SUPPORT ME
-Anda Bisa Menghubungi Kami Untuk Permasalahan Config
-
-- [Instagram](https://instagram.com/afthon_pc)
-- [Telegram](https://t.me/AfthonPc)
+<div>
+  <a href="https://t.me/MahaVPN_Channel/169" target="_blank"><img src="https://img.shields.io/badge/Price%20list%20VPN%20Premium%20MahaVPN-ff4444"></a>
+</div>
+<div>
+  <a href="https://t.me/AfthonPc" target="_blank"><img src="https://img.shields.io/badge/Telegram-@AfthonPc-blue?style=for-the-badge&logo=telegram"></a>
+</div>
+<div>
+  <a href="https://t.me/MahaVPN_Publicgroup" target="_blank"><img src="https://img.shields.io/badge/Grup_Publik-@MahaVPN_Publicgroup-blue?style=for-the-badge&logo=telegram"></a>
+</div>
 
 
 # KETERANGAN CONFIG
@@ -198,17 +203,6 @@ Simpel </span> | 1. Anda harus rajin-rajin pindah proxy group karena tidak memak
    <img src="https://raw.githubusercontent.com/GboyGud/clash_for_android/main/assets/update3.jpg" border="0">
 
 4. Lakukan update seperti ini setidaknya satu kali dalam sebulan agar rule tetap dalam keadaan update
-
-### [+] SUPPORT ME ON
-<div>
-  <a href="https://t.me/MahaVPN_Channel/169" target="_blank"><img src="https://img.shields.io/badge/Price%20list%20VPN%20Premium%20MahaVPN-ff4444"></a>
-</div>
-<div>
-  <a href="https://t.me/AfthonPc" target="_blank"><img src="https://img.shields.io/badge/Telegram-@AfthonPc-blue?style=for-the-badge&logo=telegram"></a>
-</div>
-<div>
-  <a href="https://t.me/MahaVPN_Publicgroup" target="_blank"><img src="https://img.shields.io/badge/Grup_Publik-@MahaVPN_Publicgroup-blue?style=for-the-badge&logo=telegram"></a>
-</div>
 
 # THANKS TO
 
