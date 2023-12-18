@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/GboyGud/mahavpn/main/images/banner.jpg?sanitize=true"
         height="400" width="400">
     
-<h1 align="center"><u> KUMPULAN SCRIPT ONE CLICK</u></h1>
+<h1 align="center"><u> CONFIG CLASH FOR ANDROID</u></h1>
 
 <h2 align="center">BY MAHAVPN x GOODBOY</h2>
 
