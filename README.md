@@ -21,10 +21,8 @@
 <br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GboyGud&repo=clash_for_android&theme=radical">
 </p>
-<br>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GboyGud)
-<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GboyGud&layout=compact)
 
 ### [+] Description
 REPO INI DIBUAT UNTUK MEDIA BELAJAR BAGI MEMBER MAHAVPN. BEBERAPA SCRIPT MEMERLUKAN PASSWORD UNTUK MENJALANKANNYA. ANDA BISA BERGABUNG DENGAN KAMI DI TELEGRAM.
