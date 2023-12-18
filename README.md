@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GboyGud&repo=clash_for_android&theme=radical">
 </p>
 <br>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GboyGud)]
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GboyGud)
 <br>
 
 
