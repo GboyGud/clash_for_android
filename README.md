@@ -22,10 +22,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GboyGud&repo=clash_for_android&theme=radical">
 </p>
 
-<br>
-   <![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GboyGud&theme=dark)>
-</p>   
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GboyGud&layout=compact&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GboyGud&theme=dark)
